@@ -8,10 +8,8 @@ from nltk.corpus import stopwords
 from nltk.corpus import wordnet
 from nltk.tokenize import word_tokenize
 from nltk.corpus import words
-from langdetect import detect
 import re
-import spacy
-from happytransformer import HappyTextToText
+
 
 
 #Download nltk data
